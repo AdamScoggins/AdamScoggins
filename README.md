@@ -27,8 +27,8 @@ I'm always on the lookout for new technologies and ways to improve my skill set.
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=adamscoggins)](https://github.com/AdamScoggins/github-readme) -->
 
 ## Socials
-
+<!-- 
 ### Feel free to follow!
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/adamscoggins?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/adamscoggins?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> -->
 
